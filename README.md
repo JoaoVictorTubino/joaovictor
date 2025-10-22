@@ -2,7 +2,7 @@
 
 Sou estudante de Engenharia de Software e sejam muito bem vindos ao meu Github! 😁
 
-![João Victor Github Stats](https://github-readme-stats.vercel.app/api?username=JonesGamer18&show_icons=true&theme=radical)
+![João Victor Github Stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorTubino&show_icons=true&theme=radical)
 
 [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JonesGamer18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
